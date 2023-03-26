@@ -32,53 +32,49 @@ target="blank" alt="LinkedIn">
 
 ### Tecnologias
 
-<div style="width: 300px; display:flex !important; flex-wrap: wrap; justify-content: space-around; align-items:center;"
->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" min-width="50px" max-width="90px" width="50px"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" min-width="50px" max-width="90px" width="50px" align="left" alt="Android" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="Android Studio" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="Kotlin" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="NodeJs" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="Swift" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="TypeScript" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="Docker" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="MySQL" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="SQLite" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="PostgreSQL" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="Dart" style="margin-right: 10px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
-min-width="50px" max-width="90px" width="50px"
+min-width="50px" max-width="90px" width="50px" align="left" alt="Git"
 />
-
-</div>
