@@ -32,7 +32,7 @@ target="blank" alt="LinkedIn">
 
 ### Tecnologias
 
-<div style="display:flex; flex-wrap: wrap; justify-content: space-around; align-items:center;"
+<div style="width: 500px; display:flex; flex-wrap: wrap; justify-content: space-around; align-items:center;"
 >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" min-width="70px" max-width="90px" width="70px"
 />
