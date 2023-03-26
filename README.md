@@ -8,6 +8,11 @@
 
 ### :building_construction: Seja bem-vindo ao meu github :building_construction:</br>
 
+<p
+align="justify"
+> Olá! Sou um Desenvolvedor Mobile com experiência em Flutter e Dart, bem como em tecnologias de banco de dados, como MySQL, SQLite e PostgreSQL. Além disso, trabalho com NodeJS e Typescript para criar aplicativos mobile robustos e escaláveis. Tenho forte conhecimento em versionamento com git e estou sempre buscando aprender e me atualizar com as tecnologias mais recentes. Atualmente, estou estudando as linguagens nativas Kotlin e Swift para expandir minhas habilidades e desenvolver aplicativos ainda mais sofisticados. Seja bem-vindo ao meu perfil do GitHub!
+</p>
+
 #### Como entrar em contato comigo:</br>
 
 <div
