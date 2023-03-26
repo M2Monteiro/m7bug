@@ -1,5 +1,5 @@
 <img src="./assets/Mobileapp.gif"
- min-width="400px" max-width="400px" width="400px" align="right" alt="App"
+ min-width="250px" max-width="250px" width="250px" align="right" alt="App"
 />
 
 # Hello World ":wave:"
