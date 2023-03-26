@@ -32,53 +32,53 @@ target="blank" alt="LinkedIn">
 
 ### Tecnologias
 
-<div style="width: 500px; display:flex; flex-wrap: wrap; justify-content: space-around; align-items:center;"
+<div style="width: 300px; display:flex; flex-wrap: wrap; justify-content: space-around; align-items:center;"
 >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" min-width="70px" max-width="90px" width="70px"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
-min-width="70px" max-width="90px" width="70px"
+min-width="50px" max-width="90px" width="50px"
 />
 
 </div>
